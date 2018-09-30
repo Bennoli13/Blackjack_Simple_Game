@@ -1,5 +1,5 @@
 # Blackjack_Simple_Game
-Tic_Tac_Toe-Simple-Games
+ Blackjack_Simple_Game
 This code wrote in order to learn python.
 
 Requirements: 
